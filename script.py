@@ -21,7 +21,7 @@ daily_word_meaning = soup.findAll("div", {"class": "rdDailymeaningBlock"})[0].fi
 with open(os.path.join(BASE_DIR, "rekhta-words.txt"), "a") as f:
 	f.write(daily_word + " = " + daily_word_meaning + "\n")
 
-
+"""
 # Loop over trending words and get their corresponding meanings
 
 trending_word_cards = soup.findAll("div", {"class": "rdtrndWrd"})
@@ -37,3 +37,4 @@ for i in range(0, len(trending_word_cards)):
 
 	with open(os.path.join(BASE_DIR, "rekhta-words.txt"), "a") as f:
 		f.write(trending_word + " = " + trending_word_meaning + "\n")
+"""
