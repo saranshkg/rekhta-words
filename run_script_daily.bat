@@ -10,4 +10,4 @@ set "ti=!names:~%pos%,3!"
 
 set "date=%ti% %Date:~7,2%, %Date:~10,4%"
 
-cd /d C:\SWE Projects\rekhta-words\venv\Scripts && activate && cd /d C:\SWE Projects\rekhta-words && python script.py && git add . && git commit -m "Words till %date%" && git push origin master
+cd /d C:\SWE Projects\rekhta-words\venv\Scripts && activate && cd /d C:\SWE Projects\rekhta-words && python script.py && git add . && git commit -m "Words last updated on %date%" && git push origin master

@@ -1,0 +1,6 @@
+ensure that the words already present are not added again
+run cronjob daily
+
+
+
+
