@@ -1,5 +1,7 @@
 @echo off
 
+setlocal ENABLEDELAYEDEXPANSION
+
 set "mo=%Date:~4,2%"
 if "%mo:~0,1%"=="0" set "mo=%mo:~1%"
 set names=JanFebMarAprMayJunJulAugSepOctNovDec

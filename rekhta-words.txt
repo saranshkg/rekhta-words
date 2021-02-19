@@ -239,3 +239,4 @@ haaris = guard, watchman, protector, keeper, defender
 haaris = guard, watchman, protector, keeper, defender
 haaris = guard, watchman, protector, keeper, defender
 haaris = guard, watchman, protector, keeper, defender
+haaris = guard, watchman, protector, keeper, defender
