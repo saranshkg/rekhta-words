@@ -1,11 +1,25 @@
 @echo off
 
-set "mo=%Date:~4,2%"
-if "%mo:~0,1%"=="0" set "mo=%mo:~1%"
-set names=JanFebMarAprMayJunJulAugSepOctNovDec
-set /a "pos = 3 * %mo%" - 3
-set "ti=!names:~%pos%,3!"
+for /f "delims=" %%a in ('wmic OS Get localdatetime ^| find "."') do set dt=%%a
+set year=%dt:~0,4%
+set month=%dt:~4,2%
+set day=%dt:~6,2%
 
-set "date=%ti% %Date:~7,2%, %Date:~10,4%"
+if %month%==01 set monthname=Jan
+if %month%==02 set monthname=Feb
+if %month%==03 set monthname=Mar
+if %month%==04 set monthname=Apr
+if %month%==05 set monthname=May
+if %month%==06 set monthname=Jun
+if %month%==07 set monthname=Jul
+if %month%==08 set monthname=Aug
+if %month%==09 set monthname=Sep
+if %month%==10 set monthname=Oct
+if %month%==11 set monthname=Nov
+if %month%==12 set monthname=Dec
 
-cd /d C:\SWE Projects\rekhta-words\venv\Scripts && activate && cd /d C:\SWE Projects\rekhta-words && python script.py && git add . && git commit -m "Words last updated on %date%" && git push origin master
+
+set "date_formatted=%monthname% %day%, %year%"
+
+cd /d C:\SWE Projects\rekhta-words\venv\Scripts && activate && cd /d C:\SWE Projects\rekhta-words && python script.py && git add . && git commit -m "Words last updated on %date_formatted%" && git push origin master
+
