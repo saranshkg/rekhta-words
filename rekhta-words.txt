@@ -234,3 +234,4 @@ iqtisaadiyaat = economics, the branch of knowledge dealing with production, cons
 Gam-e-firaaq = sorrow of separation, grief caused by separation from beloved
 haaris = guard, watchman, protector, keeper, defender
 mauqa'-parast = opportunist, time-server
+zulm-rasiida = oppressed, victim of tyranny
