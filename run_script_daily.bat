@@ -22,4 +22,3 @@ if %month%==12 set monthname=Dec
 set "date_formatted=%monthname% %day%, %year%"
 
 cd /d C:\SWE Projects\rekhta-words\venv\Scripts && activate && cd /d C:\SWE Projects\rekhta-words && python script.py && git add . && git commit -m "Words last updated on %date_formatted%" && git push origin master
-
