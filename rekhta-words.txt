@@ -236,3 +236,4 @@ haaris = guard, watchman, protector, keeper, defender
 mauqa'-parast = opportunist, time-server
 zulm-rasiida = oppressed, victim of tyranny
 zulm-rasiida = oppressed, victim of tyranny
+zulm-rasiida = oppressed, victim of tyranny
