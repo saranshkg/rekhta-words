@@ -240,3 +240,4 @@ qaabil-e-e'timaad = credible, trustworthy, reliable
 qaabil-e-e'timaad = credible, trustworthy, reliable
 rahbar = guide, leader, conductor
 rahbar = guide, leader, conductor
+rahbar = guide, leader, conductor
