@@ -241,3 +241,4 @@ qaabil-e-e'timaad = credible, trustworthy, reliable
 rahbar = guide, leader, conductor
 rahbar = guide, leader, conductor
 rahbar = guide, leader, conductor
+hijr-e-yaar = separation from beloved
