@@ -243,3 +243,4 @@ rahbar = guide, leader, conductor
 rahbar = guide, leader, conductor
 hijr-e-yaar = separation from beloved
 hijr-e-yaar = separation from beloved
+hijr-e-yaar = separation from beloved
