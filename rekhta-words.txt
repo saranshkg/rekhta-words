@@ -251,3 +251,4 @@ hijr-e-yaar = separation from beloved
 aGniyaa = rich and wealthy people
 'adaalat-e-KHafiifa = small causes court
 faroKHt = sale, disposal
+taKHmiina = cost-estimate, costing, valuation, estimation
