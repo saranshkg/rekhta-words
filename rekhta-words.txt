@@ -253,3 +253,4 @@ aGniyaa = rich and wealthy people
 faroKHt = sale, disposal
 taKHmiina = cost-estimate, costing, valuation, estimation
 taKHmiina = cost-estimate, costing, valuation, estimation
+taKHmiina = cost-estimate, costing, valuation, estimation
