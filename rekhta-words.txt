@@ -254,3 +254,4 @@ faroKHt = sale, disposal
 taKHmiina = cost-estimate, costing, valuation, estimation
 taKHmiina = cost-estimate, costing, valuation, estimation
 taKHmiina = cost-estimate, costing, valuation, estimation
+ijtinaab = keeping away or aloof, shunning abstinence
