@@ -263,3 +263,4 @@ saame'iin = audience, listeners
 phaag = festivities of Holi, a Hindu festival, coloured powder that Hindus throw at each other during Holi festival, the sports of the Holi festival 
 phaag = festivities of Holi, a Hindu festival, coloured powder that Hindus throw at each other during Holi festival, the sports of the Holi festival 
 bad-nasiib = unfortunate, unlucky
+bad-andesh = spiteful, malicious, inimical, ill-wisher
