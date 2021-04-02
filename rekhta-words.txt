@@ -264,3 +264,4 @@ phaag = festivities of Holi, a Hindu festival, coloured powder that Hindus throw
 phaag = festivities of Holi, a Hindu festival, coloured powder that Hindus throw at each other during Holi festival, the sports of the Holi festival 
 bad-nasiib = unfortunate, unlucky
 bad-andesh = spiteful, malicious, inimical, ill-wisher
+jum'at-ul-KHair = (in the Christian religion) the day Jesus is believed to have died, the Friday before Easter Sunday, good-Friday
