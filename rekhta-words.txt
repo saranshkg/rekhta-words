@@ -266,3 +266,4 @@ bad-nasiib = unfortunate, unlucky
 bad-andesh = spiteful, malicious, inimical, ill-wisher
 jum'at-ul-KHair = (in the Christian religion) the day Jesus is believed to have died, the Friday before Easter Sunday, good-Friday
 jum'at-ul-KHair = (in the Christian religion) the day Jesus is believed to have died, the Friday before Easter Sunday, good-Friday
+'iid-e-fis.h = Easter
