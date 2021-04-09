@@ -271,3 +271,4 @@ muzaakaraat = discussions, symposiums, talks
 zulm-rasiida = oppressed, one who is oppressed, victim of tyranny
 zuud-hazm = easily digestible, quick to be digested, ight food
 zulf-e-pareshaa.n = disheveled locks
+zirGaam = lion
