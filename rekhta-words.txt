@@ -284,3 +284,4 @@ Gair-matbuu' = unpublished
 Gair-matbuu' = unpublished
 Gaiz = anger, fury, rage
 Gam-e-hastii = worries of life
+Gam-e-hastii = worries of life
