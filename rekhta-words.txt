@@ -285,3 +285,4 @@ Gair-matbuu' = unpublished
 Gaiz = anger, fury, rage
 Gam-e-hastii = worries of life
 Gam-e-hastii = worries of life
+Gairat-mand = self-respecting, one with keen sense of honour
