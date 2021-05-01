@@ -291,3 +291,4 @@ Gair-maanuus = unfamiliar, stranger
 be-taab = eager, impatient
 haq-parast = pious, righteous, a person devoted to the truth, 
 haakim-e-vaqt = ruler of the day, current authority or ruler
+ham-jamaa'at = classmate, schoolmate, class-fellow
