@@ -293,3 +293,4 @@ haq-parast = pious, righteous, a person devoted to the truth,
 haakim-e-vaqt = ruler of the day, current authority or ruler
 ham-jamaa'at = classmate, schoolmate, class-fellow
 husn-e-ittifaaq = favourable or lucky chance
+iizaa-rasaa.n = causing pain or injury, one who hurts, torturer
