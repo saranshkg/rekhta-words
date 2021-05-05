@@ -295,3 +295,4 @@ ham-jamaa'at = classmate, schoolmate, class-fellow
 husn-e-ittifaaq = favourable or lucky chance
 iizaa-rasaa.n = causing pain or injury, one who hurts, torturer
 iizaa-rasaa.n = causing pain or injury, one who hurts, torturer
+'adaalat-e-'aaliya = high court
