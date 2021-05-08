@@ -298,3 +298,4 @@ iizaa-rasaa.n = causing pain or injury, one who hurts, torturer
 'adaalat-e-'aaliya = high court
 baad-e-muKHaalif = contrary wind, wind blowing in the opposite direction
 baad-e-sabaa = morning breeze, a refreshing wind
+bad-mizaaj = ill-tempered, ill-natured, peevish
