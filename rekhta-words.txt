@@ -300,3 +300,4 @@ baad-e-muKHaalif = contrary wind, wind blowing in the opposite direction
 baad-e-sabaa = morning breeze, a refreshing wind
 bad-mizaaj = ill-tempered, ill-natured, peevish
 'asr-e-haazir = modern or present age
+baada-paimaa = wine-drinker, imbiber of wine
