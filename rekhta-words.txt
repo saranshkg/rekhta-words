@@ -302,3 +302,4 @@ bad-mizaaj = ill-tempered, ill-natured, peevish
 'asr-e-haazir = modern or present age
 baada-paimaa = wine-drinker, imbiber of wine
 baa-tamiiz = well mannered, polite, courteous
+'aajizaana = humbly, modestly
