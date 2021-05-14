@@ -304,3 +304,4 @@ baada-paimaa = wine-drinker, imbiber of wine
 baa-tamiiz = well mannered, polite, courteous
 'aajizaana = humbly, modestly
 mufaaraqat = separation, alienation, forsaking, desertion
+mohabbat-e-qalbii = sincere affection, true love
