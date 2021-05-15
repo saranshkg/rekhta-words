@@ -305,3 +305,4 @@ baa-tamiiz = well mannered, polite, courteous
 'aajizaana = humbly, modestly
 mufaaraqat = separation, alienation, forsaking, desertion
 mohabbat-e-qalbii = sincere affection, true love
+qaabil-e-e'timaad = credible, trustworthy
