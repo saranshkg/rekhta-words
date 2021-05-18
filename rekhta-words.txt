@@ -308,3 +308,4 @@ mohabbat-e-qalbii = sincere affection, true love
 qaabil-e-e'timaad = credible, trustworthy
 raaGib = inclined to, turning towards
 aashkaar = apparent, visible, manifest
+Gair-munaasib = improper, inappropriate
