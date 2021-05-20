@@ -309,3 +309,4 @@ qaabil-e-e'timaad = credible, trustworthy
 raaGib = inclined to, turning towards
 aashkaar = apparent, visible, manifest
 Gair-munaasib = improper, inappropriate
+Gazaal-chashm = doe-eyed, having big and beautiful eyes
