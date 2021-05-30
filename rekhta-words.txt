@@ -317,3 +317,4 @@ Gazaal-chashm = doe-eyed, having big and beautiful eyes
 Gazaal-chashm = doe-eyed, having big and beautiful eyes
 Gazaal-chashm = doe-eyed, having big and beautiful eyes
 Gazaal-chashm = doe-eyed, having big and beautiful eyes
+'aasii = sinner, sinful, criminal
