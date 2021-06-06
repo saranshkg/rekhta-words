@@ -324,3 +324,4 @@ aasuuda-KHaatir = calm, of composed mind and heart
 arbaab-e-'adaalat = officers of a court, court authorities
 bad-suluukii = misbehaviour, maltreatment, discourtesy
 bahs-talab = debatable, subject to discussion
+'umr-e-daraaz = long-life, may (your) life (be) long
