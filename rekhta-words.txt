@@ -325,3 +325,4 @@ arbaab-e-'adaalat = officers of a court, court authorities
 bad-suluukii = misbehaviour, maltreatment, discourtesy
 bahs-talab = debatable, subject to discussion
 'umr-e-daraaz = long-life, may (your) life (be) long
+'unfuvaan-e-shabaab = the prime or bloom of youth
