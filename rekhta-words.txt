@@ -333,3 +333,4 @@ ruu-shanaas = one who is known by sight, casual acquaintance
 ruu-shanaas = one who is known by sight, casual acquaintance
 ruu-shanaas = one who is known by sight, casual acquaintance
 zulm-rasiida = one who is oppressed, victim of tyranny
+zulm-rasiida = one who is oppressed, victim of tyranny
