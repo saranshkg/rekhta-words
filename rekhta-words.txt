@@ -335,3 +335,4 @@ ruu-shanaas = one who is known by sight, casual acquaintance
 zulm-rasiida = one who is oppressed, victim of tyranny
 zulm-rasiida = one who is oppressed, victim of tyranny
 zehnii-intishaar = a mental aberration on your part
+tazliil = shadow, reflection
