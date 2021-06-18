@@ -336,3 +336,4 @@ zulm-rasiida = one who is oppressed, victim of tyranny
 zulm-rasiida = one who is oppressed, victim of tyranny
 zehnii-intishaar = a mental aberration on your part
 tazliil = shadow, reflection
+tazliil = humiliation, abasement, indignity, disgrace, degradation
