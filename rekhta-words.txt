@@ -340,3 +340,4 @@ tazliil = humiliation, abasement, indignity, disgrace, degradation
 zulf-e-daraaz = long tresses, long locks
 aamozish = education, teaching, learning
 davaa-farosh = seller of medicine, druggist
+'ishq-e-haqiiqii = divine love, spiritual love of God
