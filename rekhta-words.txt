@@ -342,3 +342,4 @@ aamozish = education, teaching, learning
 davaa-farosh = seller of medicine, druggist
 'ishq-e-haqiiqii = divine love, spiritual love of God
 'ishq-e-haqiiqii = divine love, spiritual love of God
+nasl-kushii = genocide
