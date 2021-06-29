@@ -344,3 +344,4 @@ davaa-farosh = seller of medicine, druggist
 'ishq-e-haqiiqii = divine love, spiritual love of God
 nasl-kushii = genocide
 nasl-kushii = genocide
+zulf-e-pareshaa.n = disheveled locks
