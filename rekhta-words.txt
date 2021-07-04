@@ -346,3 +346,4 @@ nasl-kushii = genocide
 nasl-kushii = genocide
 zulf-e-pareshaa.n = disheveled locks
 zehnii-intishaar = a mental aberration on your part
+rashk = jealousy, envy, grudge, malice
