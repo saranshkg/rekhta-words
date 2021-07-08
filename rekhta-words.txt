@@ -350,3 +350,4 @@ rashk = jealousy, envy, grudge, malice
 ziist = life, existence
 aabruu-mand = respectable, honourable
 aabruu-mand = respectable, honourable
+aabista = pregnant (woman)
