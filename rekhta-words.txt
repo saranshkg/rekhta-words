@@ -352,3 +352,4 @@ aabruu-mand = respectable, honourable
 aabruu-mand = respectable, honourable
 aabista = pregnant (woman)
 vufuur-e-Gam = extreme sorrow, grief
+vufuur-e-Gam = extreme sorrow, grief
