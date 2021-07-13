@@ -355,3 +355,4 @@ vufuur-e-Gam = extreme sorrow, grief
 vufuur-e-Gam = extreme sorrow, grief
 aalaam = sorrows, pains, grief, afflictions
 baa'is-e-Gam = cause of sorrow
+baitul-Gazal = the best couplet of a ghazal
