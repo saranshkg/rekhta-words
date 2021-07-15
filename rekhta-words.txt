@@ -357,3 +357,4 @@ aalaam = sorrows, pains, grief, afflictions
 baa'is-e-Gam = cause of sorrow
 baitul-Gazal = the best couplet of a ghazal
 dimaaGii-KHalal = madness, frenzy, lunacy
+aGlaat-naama = list of errors (usu. with corrections), corrigendum
