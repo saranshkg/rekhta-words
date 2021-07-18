@@ -359,3 +359,4 @@ baitul-Gazal = the best couplet of a ghazal
 dimaaGii-KHalal = madness, frenzy, lunacy
 aGlaat-naama = list of errors (usu. with corrections), corrigendum
 aaGaaz-e-'ishq = beginning of love
+daGal-baaz = fraudster, imposter, swindler
