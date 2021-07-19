@@ -361,3 +361,4 @@ aGlaat-naama = list of errors (usu. with corrections), corrigendum
 aaGaaz-e-'ishq = beginning of love
 daGal-baaz = fraudster, imposter, swindler
 daGal-baaz = fraudster, imposter, swindler
+kasiir-ul-iste'maal = widely-used
