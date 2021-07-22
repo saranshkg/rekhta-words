@@ -363,3 +363,4 @@ daGal-baaz = fraudster, imposter, swindler
 daGal-baaz = fraudster, imposter, swindler
 kasiir-ul-iste'maal = widely-used
 'adam-e-vaqifiyyat = ignorance, want of information or knowledge
+amr-e-vaaqi'a = fact of the matter, exact happening
