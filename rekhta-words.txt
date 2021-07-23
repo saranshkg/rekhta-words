@@ -365,3 +365,4 @@ kasiir-ul-iste'maal = widely-used
 'adam-e-vaqifiyyat = ignorance, want of information or knowledge
 amr-e-vaaqi'a = fact of the matter, exact happening
 amr-e-vaaqi'a = fact of the matter, exact happening
+ausaaf-e-hamiida = virtues, commendable or praiseworthy qualities, noble character
