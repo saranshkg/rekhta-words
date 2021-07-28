@@ -369,3 +369,4 @@ ausaaf-e-hamiida = virtues, commendable or praiseworthy qualities, noble charact
 haajat-ravaa = one who fulfils someone's need
 ham-'ahd = contemporary, coeval
 hama-giir = universal, all comprising
+zillat-aamez = insulting, disgraceful
