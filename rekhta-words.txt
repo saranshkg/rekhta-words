@@ -380,3 +380,4 @@ zaKHiira-andozii = hoarding
 aaGosh-e-'ishq = embrace of love
 aaGosh-e-'ishq = embrace of love
 aaGosh-e-'ishq = embrace of love
+zaKHiira-andoz = hoarder, stockist
