@@ -384,3 +384,4 @@ zaKHiira-andoz = hoarder, stockist
 tauqiir = honour, respect, reverence, veneration
 tauqiir = honour, respect, reverence, veneration
 qaabil-e-Gaur = worthy of consideration
+naaqidiin = critics
