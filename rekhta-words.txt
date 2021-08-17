@@ -387,3 +387,4 @@ qaabil-e-Gaur = worthy of consideration
 naaqidiin = critics
 naaqidiin = critics
 mahbuub = lover, beloved, sweetheart, lovey
+mahbuub = lover, beloved, sweetheart, lovey
