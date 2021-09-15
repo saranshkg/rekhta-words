@@ -406,3 +406,4 @@ ashraar = wicked, mischievous, mischief-makers
 ashraar = wicked, mischievous, mischief-makers
 ashraar = wicked, mischievous, mischief-makers
 zamaanat-naama = bail-bond, security bond, surety deed
+aabruu-rezii = rape, violation of chastity
