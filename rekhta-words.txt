@@ -409,3 +409,4 @@ zamaanat-naama = bail-bond, security bond, surety deed
 aabruu-rezii = rape, violation of chastity
 faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
+faziihat = disgrace, infamy, ignominy, insult
