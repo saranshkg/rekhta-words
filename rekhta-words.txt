@@ -410,3 +410,4 @@ aabruu-rezii = rape, violation of chastity
 faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
+faziihat = disgrace, infamy, ignominy, insult
