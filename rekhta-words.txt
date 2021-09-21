@@ -411,3 +411,4 @@ faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
 faziihat = disgrace, infamy, ignominy, insult
+raaGib = inclined to, turning towards, having a leaning (towards), attending to, (to), desirous
