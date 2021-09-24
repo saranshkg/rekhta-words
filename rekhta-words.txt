@@ -414,3 +414,4 @@ faziihat = disgrace, infamy, ignominy, insult
 raaGib = inclined to, turning towards, having a leaning (towards), attending to, (to), desirous
 tauqiir = honour, respect, reverence, veneration
 tauqiir = honour, respect, reverence, veneration
+aGniyaa = rich and wealthy people
