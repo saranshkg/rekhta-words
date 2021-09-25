@@ -415,3 +415,4 @@ raaGib = inclined to, turning towards, having a leaning (towards), attending to,
 tauqiir = honour, respect, reverence, veneration
 tauqiir = honour, respect, reverence, veneration
 aGniyaa = rich and wealthy people
+'ainii-gavaah = eye-witness
