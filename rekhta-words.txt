@@ -419,3 +419,4 @@ aGniyaa = rich and wealthy people
 anjum = stars
 aqvaam-e-muttahida = United Nations, the United Nations is an intergovernmental organization that aims to maintain international peace and security, develop friendly relations among nations, achieve international cooperation, and be a centre for harmonizing the actions of nations
 ashraar = wicked, mischievous, mischief-makers, criminal or seditious persons
+'asiir-ul-fahm = obscure, abstruse, recondite, esoteric
