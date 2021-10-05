@@ -421,3 +421,4 @@ aqvaam-e-muttahida = United Nations, the United Nations is an intergovernmental 
 ashraar = wicked, mischievous, mischief-makers, criminal or seditious persons
 'asiir-ul-fahm = obscure, abstruse, recondite, esoteric
 mufaaraqat = separation, alienation, forsaking, desertion
+uKHuvvat = brotherhood
