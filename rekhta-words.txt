@@ -424,3 +424,4 @@ mufaaraqat = separation, alienation, forsaking, desertion
 uKHuvvat = brotherhood
 ba-dastuur = as usual, in status quo, as before, customarily
 duur-andesh = far-sighted, far-seeing, penetrating, keen, discerning
+duur-andesh = far-sighted, far-seeing, penetrating, keen, discerning
