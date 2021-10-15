@@ -431,3 +431,4 @@ zer-e-kifaalat = under guardianship
 zurriyyat = family, household, generation, descendants
 zurriyyat = family, household, generation, descendants
 tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
+tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
