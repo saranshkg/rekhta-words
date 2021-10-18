@@ -434,3 +434,4 @@ tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
 tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
 tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
 tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
+'adaalat-e-majaaz = court of competent jurisdiction, a competent tribunal
