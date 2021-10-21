@@ -437,3 +437,4 @@ tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
 'adaalat-e-majaaz = court of competent jurisdiction, a competent tribunal
 bashaashat = cheerfulness, joyousness
 bashaashat = cheerfulness, joyousness
+bezaar = sick of, displeased, tired of, weary, disgusted, apathetic
