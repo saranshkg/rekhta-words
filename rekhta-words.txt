@@ -438,3 +438,4 @@ tazabzub = ambiguity, ambivalence, wavering, hesitation, doubt, suspense
 bashaashat = cheerfulness, joyousness
 bashaashat = cheerfulness, joyousness
 bezaar = sick of, displeased, tired of, weary, disgusted, apathetic
+bezaar = sick of, displeased, tired of, weary, disgusted, apathetic
